@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Steve, and I work in infosec interested in all things offensive security.
+
 - 🔭 I’m currently working on a few different tools and exercises focused around offensive security.
 - 🌱 I’m currently learning Python, C/C++, and Go.
 - 👯 I’m looking to collaborate on interesting hacking related tools and scripts in the above languages.
