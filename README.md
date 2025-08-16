@@ -3,8 +3,8 @@
 My name is Steve, and I work in infosec interested in all things offensive security.
 
 - 🔭 I’m currently working on a few different tools and exercises focused around offensive security.
-- 🌱 I’m currently learning Python, C/C++, and Go.
-- 👯 I’m looking to collaborate on interesting hacking related tools and scripts in the above languages.
+- 🌱 I’m currently learning Vulnerability Research, Malware Development, and maintaining general red teaming knowledge.
+- 👯 I’m looking to collaborate on interesting hacking related tools and scripts in Python, Go,and C/C++ languages.
 - 💬 Ask me about Skydiving or Airplanes. I have jumped over 5,000 times and I'm a licensed Pilot.
 - ⚡ Fun fact: I live on a little ranch in the middle of nowhere. I like chickens, and I'm a terrible gardener.
 
